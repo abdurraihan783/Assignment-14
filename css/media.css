@@ -1,0 +1,414 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/* header start */
+.btn_dd{
+    padding: 5px 10px;
+    width: 310px;
+}
+.btn_dd[data-bs-popper] {
+        top: 45px;
+        left: -5px;
+}
+.h_1 {
+    margin-left: 10px;
+    font-size: 26px;
+}
+.menu {
+    margin-left: 10px;
+}
+/* banner start */
+.slider {
+    margin: 80px 0 80px;
+}
+.b_h1 {
+    font-size: 26px;
+}
+.b_p1 {
+    padding: 40px 0px 50px 0;
+    line-height: 26px;
+}
+/* service start */
+.w_h1 {
+    font-size: 22px;
+}
+.w_item {
+    margin-bottom: 10px;
+}
+/* about start */
+.a_text {
+    margin-top: 20px;
+    text-align: center;
+}
+.a_p {
+    line-height: 26px;
+}
+/* choose start */
+.ch_container {
+    margin: 20px 10px 0;
+}
+/* work start */
+.img_item {
+    margin-bottom: 30px;
+}
+/* pricing start */
+.p_item {
+    margin: 45px 0 0;
+    padding: 0 10px 15px
+}
+/* buy start */
+.buynow {
+    margin-top: 60px;
+}
+.buy_p {
+    font-size: 16px;
+}
+.buy_btn {
+    text-align: center;
+} 
+/* testimonial start */
+.t_img {
+    margin: 15px 10px;
+}
+.t_text {
+    margin-top: 10px;
+    padding-left: 10px;
+}
+.t_h1 {
+    margin: 0;
+    font-size: 18px;
+}
+.t_h5 {
+    margin: 0;
+    font-size: 18px;
+    line-height: 28px;
+}
+.t_p {
+    margin: 0 0 10px 0;
+    padding: 0;
+    font-size: 15px;
+    text-align: justify; 
+}
+.ts_pre_next {
+        margin-top: 10px; 
+        padding: 25px 30px;
+        top: 104%;
+        right: 0;
+        width: 100%;
+        height: 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: row;
+}
+.plr{
+    padding: 0;
+}
+.ts_pre_next button {
+    transform: rotate(0deg);
+}
+.b_s {
+    padding: 25px;
+    transform: rotate(0deg);
+}
+/* contact start */
+.contact {
+    padding: 60px 70px 20px 70px;
+}
+.con_title {
+    width: 158px;
+    top: -18px;
+    left: 45%;
+}
+.a_btn {
+    margin: 10px 0 0 0;
+}
+/* footer bottom */
+.fb_text p {
+    margin-top: 20px;
+}
+.footer_social ul li a {
+    padding: 5px 5px;
+}
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/* header start */
+.btn_dd{
+    padding: 5px 10px;
+    width: 310px;
+}
+.btn_dd[data-bs-popper] {
+    top: -10px;
+    left: 90px;
+}
+/* banner start */
+.slider {
+    margin: 80px 0 80px;
+}
+.b_h1 {
+    font-size: 45px;
+}
+.b_p1 {
+    padding: 40px 40px 50px 0;
+    line-height: 30px;
+}
+/* service start */
+.w_item {
+    margin: 60px 70px 10px;
+}
+/* about start */
+.a_text {
+    margin-top: 20px;
+    text-align: center;
+}
+/* choose start */
+.ch_container {
+    margin: 60px 60px 0;
+}
+/* work start */
+.img_item {
+    margin-bottom: 30px;
+}
+/* pricing start */
+.p_item {
+    margin: 50px 0 0;
+    padding: 0px 10px 20px;
+}
+/* buy start */
+.buynow {
+    margin-top: 70px;
+}
+.buy_p {
+    font-size: 16px;
+}
+/* testimonial start */
+.t_img {
+    margin: 15px 10px;
+}
+.t_text {
+    margin-top: 10px;
+    padding-left: 10px;
+}
+.t_h1 {
+    margin: 0;
+    font-size: 18px;
+}
+.t_h5 {
+    margin: 0;
+    font-size: 18px;
+    line-height: 28px;
+}
+.t_p {
+    margin: 0 0 10px 0;
+    padding: 0;
+    font-size: 15px; 
+}
+.ts_pre_next {
+        margin-top: 10px; 
+        padding: 25px 30px;
+        top: 104%;
+        right: 0;
+        width: 100%;
+        height: 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: row;
+}
+.plr{
+    padding: 0;
+}
+.ts_pre_next button {
+    transform: rotate(0deg);
+}
+.b_s {
+    padding: 25px;
+    transform: rotate(0deg);
+}
+/* contact start */
+.contact {
+    padding: 60px 70px 20px 70px;
+}
+.con_title {
+    left: 45%;
+}
+/* footer bottom */
+.c_description {
+    margin-top: 20px;
+}
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* header start */
+.btn_dd{
+    padding: 5px 10px;
+    width: 310px;
+}
+.btn_dd[data-bs-popper] {
+        top: -10px;
+        left: 90px;
+}
+/* banner start */
+.slider {
+    margin: 110px 0 110px;
+}
+.b_h1 {
+    font-size: 50px;
+}
+.b_p1 {
+    padding: 40px 150px 50px 0;
+    line-height: 30px;
+}
+/* service start */
+.s_s{
+    padding: 0 35px;
+}
+.w_item {
+    margin-bottom: 20px;
+}
+/* about start */
+.a_text {
+    margin-top: 20px;
+    text-align: center;
+}
+/* work start */
+.img_item {
+    margin-bottom: 30px;
+}
+/* pricing start */
+.p_item {
+    margin: 60px 0 0;
+    padding: 0 10px 25px;
+}
+/* buy start */
+.buynow {
+    margin-top: 80px;
+}
+/* testimonial start */
+.t_img {
+    margin: 15px 10px;
+}
+.t_text {
+    margin-top: 10px;
+}
+.t_h1 {
+    margin: 0;
+    font-size: 16px;
+}
+.t_h5 {
+    margin: 0;
+    font-size: 16px;
+    line-height: 24px;
+}
+.t_p {
+    margin: 0;
+    padding: 0;
+    font-size: 15px; 
+}
+.ts_pre_next {
+        margin-top: 10px; 
+        padding: 25px 30px;
+        top: 104%;
+        right: 0;
+        width: 100%;
+        height: 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: row;
+}
+.plr{
+    padding: 0;
+}
+.ts_pre_next button {
+    transform: rotate(0deg);
+}
+.b_s {
+    padding: 25px;
+    transform: rotate(0deg);
+}
+/* contact start */
+.contact {
+    padding: 80px 80px 20px 100px;
+}
+.con_title {
+    left: 45%;
+}
+/* footer bottom */
+.c_description {
+    margin-top: 20px;
+}
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+/* banner start */
+.b_h1 {
+    font-size: 50px;
+}
+/* about start */
+.a_p {
+    margin-top: 20px;
+    margin-bottom: 19px;
+    line-height: 24px;
+}
+/* testimonial start */
+.t_text {
+    margin-top: 35px;
+}
+.t_h1 {
+    font-size: 18px;
+}
+.t_h5 {
+    font-size: 18px;
+    line-height: 24px;
+}
+.t_p {
+    font-size: 15px;
+    padding: 0;
+    margin: 0;
+}
+/* footer start */
+.footer_social ul li a {
+    padding: 5px 5px;
+}
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/* banner start */
+.b_h1 {
+    font-size: 50px;
+}
+/* about start */
+.b_b {
+    margin: 20px 0 0;
+}
+/* testimonial start */
+.t_text {
+    margin-top: 35px;
+}
+.t_h5 {
+    line-height: 28px;
+}
+.t_p {
+    padding-right: 20px;
+    margin-top: 20px;
+}
+}
+
+/* Extra Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) {
+/* about start */
+.a_p {
+    margin-bottom: 38px;
+    line-height: 35px
+}
+.b_b {
+    margin: 40px 0 0;
+}
+/* testimonial start */
+.t_text {
+    margin-top: 35px;
+}
+}
